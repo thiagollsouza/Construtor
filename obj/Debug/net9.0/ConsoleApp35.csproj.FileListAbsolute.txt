@@ -1,0 +1,28 @@
+C:\Projetos\C#\C# Completo\ConsoleApp35\bin\Debug\net9.0\ConsoleApp35.exe
+C:\Projetos\C#\C# Completo\ConsoleApp35\bin\Debug\net9.0\ConsoleApp35.deps.json
+C:\Projetos\C#\C# Completo\ConsoleApp35\bin\Debug\net9.0\ConsoleApp35.runtimeconfig.json
+C:\Projetos\C#\C# Completo\ConsoleApp35\bin\Debug\net9.0\ConsoleApp35.dll
+C:\Projetos\C#\C# Completo\ConsoleApp35\bin\Debug\net9.0\ConsoleApp35.pdb
+C:\Projetos\C#\C# Completo\ConsoleApp35\obj\Debug\net9.0\ConsoleApp35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\C# Completo\ConsoleApp35\obj\Debug\net9.0\ConsoleApp35.AssemblyInfoInputs.cache
+C:\Projetos\C#\C# Completo\ConsoleApp35\obj\Debug\net9.0\ConsoleApp35.AssemblyInfo.cs
+C:\Projetos\C#\C# Completo\ConsoleApp35\obj\Debug\net9.0\ConsoleApp35.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\C# Completo\ConsoleApp35\obj\Debug\net9.0\ConsoleApp35.dll
+C:\Projetos\C#\C# Completo\ConsoleApp35\obj\Debug\net9.0\refint\ConsoleApp35.dll
+C:\Projetos\C#\C# Completo\ConsoleApp35\obj\Debug\net9.0\ConsoleApp35.pdb
+C:\Projetos\C#\C# Completo\ConsoleApp35\obj\Debug\net9.0\ConsoleApp35.genruntimeconfig.cache
+C:\Projetos\C#\C# Completo\ConsoleApp35\obj\Debug\net9.0\ref\ConsoleApp35.dll
+c:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\bin\Debug\net9.0\ConsoleApp35.exe
+C:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\bin\Debug\net9.0\ConsoleApp35.deps.json
+C:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\bin\Debug\net9.0\ConsoleApp35.runtimeconfig.json
+c:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\bin\Debug\net9.0\ConsoleApp35.dll
+c:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\bin\Debug\net9.0\ConsoleApp35.pdb
+c:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj\Debug\net9.0\ConsoleApp35.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj\Debug\net9.0\ConsoleApp35.AssemblyInfoInputs.cache
+c:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj\Debug\net9.0\ConsoleApp35.AssemblyInfo.cs
+c:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj\Debug\net9.0\ConsoleApp35.csproj.CoreCompileInputs.cache
+c:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj\Debug\net9.0\ConsoleApp35.dll
+c:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj\Debug\net9.0\refint\ConsoleApp35.dll
+c:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj\Debug\net9.0\ConsoleApp35.pdb
+C:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj\Debug\net9.0\ConsoleApp35.genruntimeconfig.cache
+C:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj\Debug\net9.0\ref\ConsoleApp35.dll

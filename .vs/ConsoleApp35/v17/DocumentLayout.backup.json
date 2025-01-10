@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\C#\\C# Completo\\ConsoleApp35\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E51AFF17-4020-49A7-B274-C8365B98F42D}|ConsoleApp35.csproj|c:\\projetos\\c#\\c# completo\\consoleapp35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51AFF17-4020-49A7-B274-C8365B98F42D}|ConsoleApp35.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51AFF17-4020-49A7-B274-C8365B98F42D}|ConsoleApp35.csproj|c:\\projetos\\c#\\c# completo\\consoleapp35\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51AFF17-4020-49A7-B274-C8365B98F42D}|ConsoleApp35.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Projetos\\C#\\C# Completo\\ConsoleApp35\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Projetos\\C#\\C# Completo\\ConsoleApp35\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAEwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:33:16.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\C#\\C# Completo\\ConsoleApp35\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projetos\\C#\\C# Completo\\ConsoleApp35\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAawCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:31:39.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
