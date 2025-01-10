@@ -11,11 +11,11 @@ namespace MyApp
             produto1.ExibirInfo();
 
          Console.WriteLine();
-         Produto produto2 = new Produto("TV", "Eletrônico", 2500.00m, 10);
+         Produto produto2 = new Produto("TV 32 Polegadas", "Eletrônico", 2500.00m, 10);
          produto2.ExibirInfo();
 
          Console.WriteLine();
-         Produto produto3 = new Produto("Smartphone", "Eletrônico");
+         Produto produto3 = new Produto("Smartphone Samsung", "Eletrônico");
           produto3.ExibirInfo();
 
          Console.WriteLine();
