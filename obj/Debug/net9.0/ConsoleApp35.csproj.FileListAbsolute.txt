@@ -26,3 +26,4 @@ c:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj
 c:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj\Debug\net9.0\ConsoleApp35.pdb
 C:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj\Debug\net9.0\ConsoleApp35.genruntimeconfig.cache
 C:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj\Debug\net9.0\ref\ConsoleApp35.dll
+c:\Projetos\C#\C# Completo - Parte 2\ConsoleApp35 -  construtor e sobrecarga\obj\Debug\net9.0\ConsoleApp35.sourcelink.json
