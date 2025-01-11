@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\C#\\C# Completo - Parte 2\\ConsoleApp35 -  construtor e sobrecarga\\ConsoleApp35.csproj",
+      "projectUniqueName": "C:\\Projetos\\git\\Clone\\Construtor\\ConsoleApp35.csproj",
       "projectName": "ConsoleApp35",
-      "projectPath": "C:\\Projetos\\C#\\C# Completo - Parte 2\\ConsoleApp35 -  construtor e sobrecarga\\ConsoleApp35.csproj",
+      "projectPath": "C:\\Projetos\\git\\Clone\\Construtor\\ConsoleApp35.csproj",
       "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\C#\\C# Completo - Parte 2\\ConsoleApp35 -  construtor e sobrecarga\\obj\\",
+      "outputPath": "C:\\Projetos\\git\\Clone\\Construtor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
