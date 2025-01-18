@@ -15,7 +15,7 @@ namespace MyApp
          produto2.ExibirInfo();
 
          Console.WriteLine();
-        Produto produto3 = new Produto("Smartphone Iphone.", "Eletrônico");
+        Produto produto3 = new Produto("Smartphone samsung.", "Eletrônico");
           produto3.ExibirInfo();
 
          Console.WriteLine();

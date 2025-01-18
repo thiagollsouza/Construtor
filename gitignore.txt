@@ -1,0 +1,13 @@
+# Diretórios de build
+bin/
+obj/
+
+# Arquivos de configuração do Visual Studio
+.vs/
+.vscode/
+
+# Arquivos temporários de usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
