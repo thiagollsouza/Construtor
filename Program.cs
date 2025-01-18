@@ -11,7 +11,7 @@ namespace MyApp
             produto1.ExibirInfo();
 
          Console.WriteLine();
-         Produto produto2 = new Produto("TV 55 Polegadas", "Eletrônico", 2500.00m, 10);
+         Produto produto2 = new Produto("TV 65 Polegadas", "Eletrônico", 2500.00m, 10);
          produto2.ExibirInfo();
 
          Console.WriteLine();
