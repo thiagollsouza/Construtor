@@ -11,3 +11,4 @@ obj/
 *.suo
 *.userosscache
 *.sln.docstates
+ConsoleApp35.AssemblyInfo.cs
