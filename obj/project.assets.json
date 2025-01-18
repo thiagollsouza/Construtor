@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\git\\Clone\\Construtor\\ConsoleApp35.csproj",
+      "projectUniqueName": "C:\\Projetos\\GIT\\Clone 18-01-2025\\Construtor\\ConsoleApp35.csproj",
       "projectName": "ConsoleApp35",
-      "projectPath": "C:\\Projetos\\git\\Clone\\Construtor\\ConsoleApp35.csproj",
+      "projectPath": "C:\\Projetos\\GIT\\Clone 18-01-2025\\Construtor\\ConsoleApp35.csproj",
       "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\git\\Clone\\Construtor\\obj\\",
+      "outputPath": "C:\\Projetos\\GIT\\Clone 18-01-2025\\Construtor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
